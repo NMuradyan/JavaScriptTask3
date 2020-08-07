@@ -1,0 +1,9 @@
+#size {
+    background-color: darkcyan;
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 400px;
+    border: 15px solid navy;
+    padding: 50px;
+    margin: 20px;
+}
